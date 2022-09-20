@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi 👋, I am Celina an front-end developer. I specialise<br> in Web Development and Design.  I am passionate about<br>technologies and love to learn new things. ✨<br><br>🌱Currently learning React.<br>⭐Im from Buenos Aires, Argentina.<br>🐛 OnGoing > Full Stack Dev
+<br>Hi 👋, I am Celina an front-end developer. I specialise<br> in Web Development and Design.  I am passionate about<br>technologies and love to learn new things. ✨<br><br>🌱Currently learning React.<br>⭐Im from Buenos Aires, Argentina.<br> ⌛  Full Stack Developer
 
 
 ## 🌐 Socials:
