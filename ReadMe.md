@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi 👋, I'm Celina a front-end developer, currently studying React!<br> my future goal is to become Full Stack. <br> I also love to design! <br> My wish is to create meaningful applications that generate changes and solutions for the adults of tomorrow. <br><br> 🧠 I am passionate about technologies and love to learn new things. <br>⭐Im from Buenos Aires, Argentina.
+<br>Hi 👋, I'm Celina a front-end developer, currently studying React!<br> my future goal is to become Full Stack. 🤓 <br> I also love to design! 🎨<br> My wish is to create meaningful applications <br>that generate changes and solutions for the adults of tomorrow. 🏡 <br><br> 🧠 I am passionate about technologies and love to learn new things. <br>📍Im from Buenos Aires, Argentina.
 
 
 ## 🌐 Socials:
