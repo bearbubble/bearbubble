@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi 👋, I'm Celina a front-end developer, currently studying React!🤓 <br> Also i love design! 🎨<br> My wish is create meaningful applications <br>that generate changes and solutions for the adults of tomorrow. 🏡 <br><br> 💻 | I'm passionate about technology. <br> 🧠 | I love learning new things! <br>📍 | Buenos Aires, Argentina.
+<br>Hi 👋, I'm Celina a front-end developer, currently studying React and Multimedia Design! 🎨<br> My wish is create meaningful applications <br>that generate changes and solutions for the adults of tomorrow. 🏡 <br><br> 💻 | I'm passionate about technology. <br> 🧠 | I love learning new things! <br>📍 | Buenos Aires, Argentina. <br><br> <br>  I'm your Comodín. 🃏 @celinazilio.
 
 
 ## 🌐 Socials:
