@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi 👋, I'm Celina a front-end develope and Multimedia Designer! 🎨<br> My wish is create meaningful applications that generate changes and solutions for the adults of tomorrow. 🏡 <br><br> 💻 | I'm passionate about technology. <br> 🧠 | I love learning new things! <br>📍 | Buenos Aires, Argentina. <br><br> <br>  🃏 @celinazilio_
+<br>Hi! i'm a front-end developer and multimedia designer ✧<br> My wish is create meaningful applications that generate changes and solutions for the adults of tomorrow. 🌃<br><br> 💻 | I'm passionate about technology. <br>📍 | Buenos Aires, Argentina. <br><br> <br> ⚫ @celinazilio_
 
 
 ## 🌐 Socials:
