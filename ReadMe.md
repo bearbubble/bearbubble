@@ -1,5 +1,5 @@
-# 💎 @artcentuo.
-<br> ¡Hi! i'm Celina, a front-end developer and multimedia designer <br> <br> <br>📍 | Buenos Aires, Argentina. <br><br> <br> 💎 @artcentuo.
+# 🤍 @artcentuo.
+<br> ¡Hi! i'm Celina, a front-end developer and multimedia designer <br> <br> <br>📍 | Buenos Aires, Argentina. <br><br> <br> 🤍 @artcentuo.
 
 
 ## 🌐 Socials:
