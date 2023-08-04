@@ -6,15 +6,6 @@
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/ celina-maccagnani" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="23" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/celinazilio1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="35" height="23" alt="behance logo"  />
-  </a>
-</div>
-
 ###
 
 <img align="right" height="220" src="https://media.tenor.com/PBcGjKppnacAAAAM/pixel-art.gif"  />
