@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="220" src="[https://media.tenor.com/PBcGjKppnacAAAAM/pixel-art.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fwindows-xp&psig=AOvVaw3n6TUIKWliljM5GoPcZQBw&ust=1699487869710000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjx2-eLs4IDFQAAAAAdAAAAABAI)"  />
+<img align="right" height="220" src="https://media.giphy.com/media/RwdDXPZwRSkoqD1zP3/giphy.gif"  />
 
 ###
 
